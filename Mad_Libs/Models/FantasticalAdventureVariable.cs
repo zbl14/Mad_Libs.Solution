@@ -1,6 +1,6 @@
 namespace Mad_Libs.Models
 {
-  public class StoryVariable
+  public class FantasticalAdventureVariable
   {
     public string Person1 { get; set; }
     public string Person2 { get; set; }
